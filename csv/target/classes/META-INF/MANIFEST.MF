@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 91955
+Build-Jdk: 11.0.1
+Implementation-Title: csv
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.csv
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/csv
+Created-By: Maven Integration for Eclipse
+
